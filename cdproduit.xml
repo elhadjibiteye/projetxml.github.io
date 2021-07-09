@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="cdproduit.css"?>
+<?xml-stylesheet type="text/xsl" href="stylesxsl.xsl"?>
+<catalog>
+  
+  
+  <cd id="3">
+    <nom>Iphone 12 Pro max</nom>
+    <categorie>Téléphone</categorie>
+    <prix>690 000</prix>
+    <description>Couleur noire, mémoire 256 Go</description>
+    <image url="images/iphone12.jpg"/>
+  </cd>
+  <cd id="4">
+    <nom>Ordinateur hp elitebook 840</nom>
+    <categorie>Ordinateur</categorie>
+    <prix>200 000</prix>
+    <description>Noir 14 Pouces RAM 8 Disque dur 1 To</description>
+    <image url="images/hpelitebookg5.jpg"/>
+  </cd>
+  
+</catalog>
